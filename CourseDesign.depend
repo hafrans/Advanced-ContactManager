@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1468408813 source:f:\codeblocks\coursedesign\functions.c
+	"functions.h"
+
+1468336849 f:\codeblocks\coursedesign\functions.h
+	"project.h"
+
+1468468028 f:\codeblocks\coursedesign\project.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+	<assert.h>
+	<conio.h>
+	<time.h>
+	<stdarg.h>
+	<unistd.h>
+	"functions.h"
+	"datastruct.h"
+	"filesystem.h"
+	"console.h"
+	"core.h"
+
+1468458850 source:f:\codeblocks\coursedesign\main.c
+	"project.h"
+
+1468464735 source:f:\codeblocks\coursedesign\filesystem.c
+	"project.h"
+
+1468396122 source:f:\codeblocks\coursedesign\datastruct.c
+	"datastruct.h"
+
+1468459136 f:\codeblocks\coursedesign\datastruct.h
+	"project.h"
+
+1468461063 f:\codeblocks\coursedesign\filesystem.h
+	"project.h"
+
+1468464640 f:\codeblocks\coursedesign\core.h
+	"project.h"
+
+1468469171 source:f:\codeblocks\coursedesign\core.c
+	"core.h"
+
+1468465448 source:f:\codeblocks\coursedesign\help.c
+	"project.h"
+
+1468466515 source:f:\codeblocks\coursedesign\console.c
+	"project.h"
+
+1468465528 f:\codeblocks\coursedesign\console.h
+	"project.h"
+
+1468477918 source:f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\console.c
+	"console.h"
+
+1468477966 f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\project.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+	<assert.h>
+	<conio.h>
+	<time.h>
+	<stdarg.h>
+	<unistd.h>
+	"functions.h"
+	"datastruct.h"
+	"filesystem.h"
+	"console.h"
+	"core.h"
+
+1468336849 f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\functions.h
+	"project.h"
+
+1468459136 f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\datastruct.h
+	"project.h"
+
+1468478427 f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\filesystem.h
+	"project.h"
+
+1468478427 f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\console.h
+	"project.h"
+
+1468478427 f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\core.h
+	"project.h"
+
+1468477852 source:f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\core.c
+	"core.h"
+
+1468478017 source:f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\datastruct.c
+	"datastruct.h"
+
+1468464735 source:f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\filesystem.c
+	"project.h"
+
+1468478316 source:f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\functions.c
+	"functions.h"
+
+1468478311 source:f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\help.c
+	"project.h"
+
+1468458850 source:f:\codeblocks\通讯录管理系统_吕中华_王笑_郎需婕\coursedesign\main.c
+	"project.h"
+
